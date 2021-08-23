@@ -121,7 +121,7 @@ termcolor==1.1.0
     # via fire
 toml==0.10.2
     # via pytest
-tzlocal==2.1
+tzlocal==3.0
     # via gcsa
 uritemplate==3.0.1
     # via google-api-python-client
