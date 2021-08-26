@@ -64,7 +64,7 @@ packaging==20.9
     # via
     #   google-api-core
     #   pytest
-pluggy==0.13.1
+pluggy==1.0.0
     # via pytest
 prodict==0.8.18
     # via -r requirements.in
