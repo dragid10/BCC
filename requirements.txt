@@ -94,7 +94,7 @@ python-decouple==3.4
     # via -r requirements.in
 python-dotenv==0.19.0
     # via -r requirements.in
-pytz==2021.1
+pytz==2021.3
     # via
     #   google-api-core
     #   tzlocal
