@@ -20,7 +20,7 @@ click==8.0.1
     # via flask
 fire==0.4.0
     # via -r requirements.in
-flask==2.0.1
+flask==2.0.2
     # via -r requirements.in
 gcsa==1.2.0
     # via -r requirements.in
