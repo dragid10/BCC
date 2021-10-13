@@ -46,7 +46,7 @@ httplib2==0.19.1
     # via
     #   google-api-python-client
     #   google-auth-httplib2
-idna==2.10
+idna==3.3
     # via requests
 iniconfig==1.1.1
     # via pytest
