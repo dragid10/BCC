@@ -24,7 +24,7 @@ flask==2.0.1
     # via -r requirements.in
 gcsa==1.2.0
     # via -r requirements.in
-google-api-core==1.31.2
+google-api-core==2.1.1
     # via google-api-python-client
 google-api-python-client==2.17.0
     # via gcsa
