@@ -68,7 +68,7 @@ pluggy==0.13.1
     # via pytest
 prodict==0.8.18
     # via -r requirements.in
-protobuf==3.17.3
+protobuf==3.19.0
     # via
     #   google-api-core
     #   googleapis-common-protos
