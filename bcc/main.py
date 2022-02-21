@@ -87,7 +87,7 @@ def run(local_id: str = gcal.local_calendar, cloud_id: str = gcal.cloud_calendar
     clear_events(cloud=cloud_cal)
 
     # Sleep for 1 minute to avoid rate-limiting
-    logger.info("Sleeping for 1 minute")
+    logger.info("Sleeping for 32 secs")
     time.sleep(32)
 
     # Actually clone birthdays
