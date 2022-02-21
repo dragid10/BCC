@@ -26,7 +26,7 @@ gcsa==1.2.0
     # via -r requirements.in
 google-api-core==1.31.2
     # via google-api-python-client
-google-api-python-client==2.17.0
+google-api-python-client==2.27.0
     # via gcsa
 google-auth-httplib2==0.1.0
     # via
