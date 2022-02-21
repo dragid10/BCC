@@ -90,7 +90,7 @@ python-dateutil==2.8.2
     # via
     #   beautiful-date
     #   gcsa
-python-decouple==3.4
+python-decouple==3.5
     # via -r requirements.in
 python-dotenv==0.19.1
     # via -r requirements.in
